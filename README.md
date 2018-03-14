@@ -1,0 +1,3 @@
+# MachineLearning
+
+This repository contains a few classification algorithms coded from scratch while taking the ENGN2520 Machine Learning course at Brown. The *NaiveBayes* and *SVM* folders contain hand-written digit classifiers using MNIST data and respectively implement a Naive Bayes classifier with maximum likelihood and a support vector machine with gradient descent. The *GaussianMixture* folder estimates a Gaussian Mixture model from simulated data. It estimates the model using an EM algorithm.
